@@ -22,6 +22,8 @@ Here are some projects I’ve worked on or am currently building:
 - [Incident report analysis](https://github.com/user-attachments/files/21319073/Incident.report.analysis.1.pdf)
 - [Network Attack Analysis](https://github.com/user-attachments/files/21319079/Network.Attack.Analysis.pdf)
 - [Security Audit](https://github.com/user-attachments/files/21319082/Security.Audit.1.pdf)
+- [Apply filters to SQL queries](https://github.com/user-attachments/files/21321950/Apply.filters.to.SQL.queries.exemplar.pdf)
+
 
 ### 🧪 Cybersecurity Labs
 
