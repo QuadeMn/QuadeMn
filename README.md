@@ -16,12 +16,12 @@ Welcome to my GitHub! I'm currently working through [Google's Cybersecurity Cert
 ## 📂 Projects
 
 Here are some projects I’ve worked on or am currently building:
-
-
-
-
-
-
+- [Professional Statement](https://github.com/user-attachments/files/21319084/Professional.Statement.1.pdf)
+- [File permissions in Linux](https://github.com/user-attachments/files/21318996/File.permissions.in.Linux.exemplar.pdf)
+- [DNS and ICMP traffic analysis](https://github.com/user-attachments/files/21319061/DNS.and.ICMP.traffic.analysis.pdf)
+- [Incident report analysis](https://github.com/user-attachments/files/21319073/Incident.report.analysis.1.pdf)
+- [Network Attack Analysis](https://github.com/user-attachments/files/21319079/Network.Attack.Analysis.pdf)
+- [Security Audit](https://github.com/user-attachments/files/21319082/Security.Audit.1.pdf)
 
 ### 🧪 Cybersecurity Labs
 
