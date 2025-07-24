@@ -23,7 +23,7 @@ Here are some projects I’ve worked on or am currently building:
 - [Network Attack Analysis](https://github.com/user-attachments/files/21319079/Network.Attack.Analysis.pdf)
 - [Security Audit](https://github.com/user-attachments/files/21319082/Security.Audit.1.pdf)
 - [Apply filters to SQL queries](https://github.com/user-attachments/files/21321950/Apply.filters.to.SQL.queries.exemplar.pdf)
--[Vulnerability assessment report](https://github.com/user-attachments/files/21416263/Vulnerability.assessment.report.pdf)
+- [Vulnerability assessment report](https://github.com/user-attachments/files/21416263/Vulnerability.assessment.report.pdf)
 
 
 ### 🧪 Cybersecurity Labs
